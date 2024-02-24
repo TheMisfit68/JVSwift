@@ -14,14 +14,14 @@ let package = Package(
 	],
 	// Dependencies declare other packages that this package depends on.
 	dependencies: [
-		.package(url: "https://github.com/TheMisfit68/JVNetworking.git", branch: "master"),
-		.package(url: "https://github.com/TheMisfit68/JVSecurity.git", branch: "master"),
-		.package(url: "https://github.com/TheMisfit68/JVScripting.git", branch: "master"),
-		.package(url: "https://github.com/TheMisfit68/JVWeather.git", branch: "master"),
-		.package(url: "https://github.com/TheMisfit68/JVLocation.git", branch: "master"),
-		.package(url: "https://github.com/TheMisfit68/JVUI.git", branch: "master"),
-		.package(url: "https://github.com/TheMisfit68/JVData.git", branch: "master"),
-		.package(url: "https://github.com/TheMisfit68/JVSwiftCore.git", branch: "master"),
+		.package(url: "https://github.com/TheMisfit68/JVNetworking.git", branch: "main"),
+		.package(url: "https://github.com/TheMisfit68/JVSecurity.git", branch: "main"),
+		.package(url: "https://github.com/TheMisfit68/JVScripting.git", branch: "main"),
+		.package(url: "https://github.com/TheMisfit68/JVWeather.git", branch: "main"),
+		.package(url: "https://github.com/TheMisfit68/JVLocation.git", branch: "main"),
+		.package(url: "https://github.com/TheMisfit68/JVUI.git", branch: "main"),
+		.package(url: "https://github.com/TheMisfit68/JVData.git", branch: "main"),
+		.package(url: "https://github.com/TheMisfit68/JVSwiftCore.git", branch: "main"),
 	],
 	targets: [
 		// Targets are the basic building blocks of a package, defining a module or a test suite.

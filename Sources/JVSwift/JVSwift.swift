@@ -1,6 +1,4 @@
-// The Swift Programming Language
-// https://docs.swift.org/swift-book
-
+// Umbrella file / module map for the JVSwift framework
 import JVNetworking
 import JVSecurity
 import JVScripting
