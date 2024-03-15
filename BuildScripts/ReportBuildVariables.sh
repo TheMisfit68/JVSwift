@@ -1,7 +1,6 @@
 #!/bin/sh
 
 #  Report Build Variables.sh
-#  JVCocoa
 #
 #  Created by Administrator on 28/04/14.
 #  Copyright (c) 2014 OneClick BVBA. All rights reserved.
