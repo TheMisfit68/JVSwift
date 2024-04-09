@@ -2,6 +2,10 @@
 @Metadata {
 	@PageKind(article)
 	@PageColor(yellow)
+	@PageImage(
+			   purpose: icon, 
+			   source: "SwiftIon", 
+			   alt: "A Swift icon")
 }
 
 A collection of Swift-based frameworks for personal use.
