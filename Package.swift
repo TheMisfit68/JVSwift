@@ -22,6 +22,7 @@ let package = Package(
 		.package(url: "https://github.com/TheMisfit68/JVUI.git", branch: "main"),
 		.package(url: "https://github.com/TheMisfit68/JVData.git", branch: "main"),
 		.package(url: "https://github.com/TheMisfit68/JVSwiftCore.git", branch: "main"),
+		.package(url: "https://github.com/apple/swift-docc-plugin", from: "1.3.0"),
 	],
 	targets: [
 		// Targets are the basic building blocks of a package, defining a module or a test suite.
