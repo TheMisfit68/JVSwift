@@ -1,1 +1,1 @@
-{"interfaceLanguages":{"swift":[{"path":"\/documentation\/jvswift","title":"JVSwift","type":"module"}]},"schemaVersion":{"major":0,"minor":1,"patch":1}}
+{"interfaceLanguages":{"swift":[{"icon":"SwiftIcon.png","path":"\/documentation\/jvswift","title":"JVSwift","type":"module"}]},"references":{"SwiftIcon.png":{"alt":"A Swift icon","identifier":"SwiftIcon.png","type":"image","variants":[{"traits":["2x","light"],"url":"\/images\/SwiftIcon@2x.png"}]}},"schemaVersion":{"major":0,"minor":1,"patch":1}}
